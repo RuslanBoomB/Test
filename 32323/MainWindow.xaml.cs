@@ -21,6 +21,7 @@ namespace _32323
     public partial class MainWindow : Window
     {
         int x;
+        int y;
         public MainWindow()
         {
             InitializeComponent();
